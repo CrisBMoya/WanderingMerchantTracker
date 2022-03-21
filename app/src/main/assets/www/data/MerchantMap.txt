@@ -1,0 +1,60 @@
+Vendor	Maps	MapName
+Mac	traveling_merchant_mac_delphi_township.jpg	Delphi Township
+Mac	traveling_merchant_mac_melody_forest.jpg	Melody Forest
+Mac	traveling_merchant_mac_mirror_valley.jpg	Mirror Valley
+Mac	traveling_merchant_mac_rattan_hill.jpg	Rattan Hill
+Mac	traveling_merchant_mac_twilight_mists.jpg	Twilight Mists
+Lucas	yudia_wandering_merchant_lucas_ozhorn_hill.jpg	Ozhorn Hill
+Lucas	yudia_wandering_merchant_lucas_saland_hill.jpg	Saland Hill
+Morris	morris_dyorika_plains_10.jpg	Dyorika Plains
+Morris	morris_flowering_orchard_10.jpg	Flowering Orchard
+Morris	morris_sunbright_hill_10.jpg	Sunbright Hill
+Jeffrey	wandering_merchant_jeffrey_bitterwind_hill_v2.jpg	Bitterwind Hill
+Jeffrey	wandering_merchant_jeffrey_frozen_sea_v2.jpg	Frozen Sea
+Jeffrey	wandering_merchant_jeffrey_ice_blood_plateau_v2.jpg	Iceblood Plateau
+Jeffrey	wandering_merchant_jeffrey_icewing_heights_v2.jpg	Icewing Heights
+Jeffrey	wandering_merchant_jeffrey_lake_eternity_v2.jpg	Lake Eternity
+Dorelia	Dorelia_Feiton.jpg	Feiton
+Malone	malone_battlebound_plains.jpg	Battlebound Plains
+Malone	malone_bilbrin_forest.jpg	Bilbrin Forest
+Malone	malone_lakebar.jpg	Lakebar
+Malone	malone_medrick_monastery.jpg	Medrick Monastery
+Malone	malone_mount_zagoras.jpg	Mount Zagoras
+Burt	burt_blackrose_chapel_v4.jpg	Blackrose Chapel
+Burt	burt_boreas_domain_v4.jpg	Boreas Domain
+Burt	burt_croconys_seashore_v4.jpg	Croconys Seashore
+Burt	burt_layer_terrace_v4.jpg	Layer Terrace
+Oliver	wandering_merchant_oliver_forest_of_giants.jpg	Forest of Giants
+Oliver	wandering_merchant_oliver_seaswept_woods.jpg	Seaswept Woods
+Oliver	wandering_merchant_oliver_skyreach_steppe.jpg	Skyreach Steppe
+Oliver	wandering_merchant_oliver_sweetwater_forest.jpg	Sweetwater Forest
+Nox	wandering_merchant_nox_arid_path.jpg	Arid Path
+Nox	wandering_merchant_nox_nebel_horn.jpg	Nebel Horn
+Nox	wandering_merchant_nox_riza_falls.jpg	Riza Falls
+Nox	wandering_merchant_nox_scraplands.jpg	Scraplands
+Nox	wandering_merchant_nox_tottrich.jpg	Tottrich
+Nox	wandering_merchant_nox_windbringer_hill.jpg	Windbringer Hill
+Aricer	aricer_breezesome_brae.jpg	Breezome Brae
+Aricer	aricer_elzowins_shade.jpg	Elzowins Shade
+Aricer	aricer_lake_shiverwave.jpg	Lake Siverwave
+Aricer	aricer_xeneela_ruins.jpg	Xeneela Ruins
+Rayni	Rayni_punika_wandering_merchant_1_v1.jpg	Tideshelf Path
+Rayni	Rayni_punika_wandering_merchant_2_v1.jpg	Starsand Beach
+Rayni	Rayni_punika_wandering_merchant_3_v1.jpg	Tikatika Colony
+Rayni	Rayni_punika_wandering_merchant_4_v1.jpg	Secret Forest
+Ben	Ben_rethramis_wm_ankumo_mountain_750.jpg	Ankumo Mountain
+Ben	Ben_rethramis_wm_log_hill_750.jpg	Log Hill
+Ben	Ben_rethramis_wm_rethramis_border_750.jpg	Rethramis Border
+Ben	wandering_merchant_ben_ankumo_mountain_v2.jpg	Ankumo Mountain
+Ben	wandering_merchant_ben_log_hill_v2.jpg	Log Hill
+Ben	wandering_merchant_ben_rethramis_border_v2.jpg	Rethramis Border
+Peter	wandering_merchant_peter_balankar_mountains.jpg	Balankar Mountain
+Peter	wandering_merchant_peter_fesnar_highland.jpg	Fesnar Highland
+Peter	wandering_merchant_peter_parna_forest.jpg	Parna Forest
+Peter	wandering_merchant_peter_port_krona.jpg	Port Krona
+Peter	wandering_merchant_peter_vernese_forest.jpg	Vernese Forest
+Laitir	laitir_black_anvil_mine_v1.jpg	Black Anvil Mine
+Laitir	laitir_hall_of_promise.jpg	Hall of Promise
+Laitir	laitir_iron_hammer_mine_v1.jpg	Iron Hammer Mine
+Laitir	laitir_unfinished_garden_v1.jpg	Unfinished Garden
+Laitir	laitir_yorns_cradle_v1.jpg	Yorns Cradle

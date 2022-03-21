@@ -1,0 +1,15 @@
+Regions	Vendor	Map1	Map2	Map3	Map4	Map5	Map6
+Anikka	Mac	Delphi Township	Rattan Hill	Melody Forest	Twilight Mists		
+Yudia	Lucas	Saland Hill	Ozhorn Hill				
+East Luterra	Morris	Dyorika Plains	Sunbright Hill	Flowring Orchard			
+Shushire	Jeffrey	Frozen Sea	Bitterwind Hill	Iceblood Plateau	Lake Eternity		
+Feiton	Dorella	Feiton					
+West Luterra	Malone	Mount Zagoras	Lakebar	Medrick Monastery	Bilbrin Forest		
+East Luterra	Burt	Blackrose Chapel	Leyar Terrace	Boreas Domain	Croconys Seashore		
+Tortoyk	Oliver	Seaswept Woods	Sweetwater Forest	Skyreach Steppe	Forest of Giants		
+Arthetine	Nox	Arid Path	Scraplands	Nebel Horn	Windbringer Hill	Tottrich	Riza Falls
+Rohendel	Aricer	Lake Shiverwave	Glass Lotus Lake	Breezone Brae	Xeneela Ruins	Elzowins Shade	
+Punika	Rayni	Tideshelf Path	Starsand Beach	Tikatika Colony	Secret Forest		
+Rethramis	Ben	Log Hill	Ankumo Mountain	Rethramis Border			
+North Vern	Peter	Port Krona	Parna Forest	Fesnar Highland	Vernese Forest	Balankar Mountain	
+Yorn	Laitir	Yorns Cradle	Unfinished Garden	Black Anvil Mine	Iron Hammer Mine	Hall of Promise	

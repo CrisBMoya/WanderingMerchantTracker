@@ -1,0 +1,85 @@
+Regions	Vendor	TimeWindowA	TimeWindowB	I1	I2	I3	I4	I5	I6	I7	I8	I9
+Anikka	Mac	1:30	13:30	Angler's Fishing Pole	Tournament Entrance Stamp	Sir Valleylead Card	Sir Druden Card	Madam Moonscent Card	Wei Card			
+Anikka	Mac	4:30	16:30	Angler's Fishing Pole	Tournament Entrance Stamp	Sir Valleylead Card	Sir Druden Card	Madam Moonscent Card	Wei Card			
+Anikka	Mac	5:30	17:30	Angler's Fishing Pole	Tournament Entrance Stamp	Sir Valleylead Card	Sir Druden Card	Madam Moonscent Card	Wei Card			
+Anikka	Mac	7:30	19:30	Angler's Fishing Pole	Tournament Entrance Stamp	Sir Valleylead Card	Sir Druden Card	Madam Moonscent Card	Wei Card			
+Anikka	Mac	8:30	20:30	Angler's Fishing Pole	Tournament Entrance Stamp	Sir Valleylead Card	Sir Druden Card	Madam Moonscent Card	Wei Card			
+Anikka	Mac	11:30	23:30	Angler's Fishing Pole	Tournament Entrance Stamp	Sir Valleylead Card	Sir Druden Card	Madam Moonscent Card	Wei Card			
+Yudia	Lucas	1:30	13:30	Sky Reflection Oil	Yudia Natural Salt	Yudia Spell Book	Morina Card	Giant Worm Card	Thunder Card			
+Yudia	Lucas	4:30	16:30	Sky Reflection Oil	Yudia Natural Salt	Yudia Spell Book	Morina Card	Giant Worm Card	Thunder Card			
+Yudia	Lucas	5:30	17:30	Sky Reflection Oil	Yudia Natural Salt	Yudia Spell Book	Morina Card	Giant Worm Card	Thunder Card			
+Yudia	Lucas	7:30	19:30	Sky Reflection Oil	Yudia Natural Salt	Yudia Spell Book	Morina Card	Giant Worm Card	Thunder Card			
+Yudia	Lucas	8:30	20:30	Sky Reflection Oil	Yudia Natural Salt	Yudia Spell Book	Morina Card	Giant Worm Card	Thunder Card			
+Yudia	Lucas	11:30	23:30	Sky Reflection Oil	Yudia Natural Salt	Yudia Spell Book	Morina Card	Giant Worm Card	Thunder Card			
+East Luterra	Morris	1:30	13:30	Chain War Chronicles	Dyorika Straw Hat	Model of Luterra's Sword	Azenaporium Brooch	Morpheo Card	Brinewt Card	Meehan Card	Thunder Wings Card	
+East Luterra	Morris	4:30	16:30	Chain War Chronicles	Dyorika Straw Hat	Model of Luterra's Sword	Azenaporium Brooch	Morpheo Card	Brinewt Card	Meehan Card	Thunder Wings Card	
+East Luterra	Morris	5:30	17:30	Chain War Chronicles	Dyorika Straw Hat	Model of Luterra's Sword	Azenaporium Brooch	Morpheo Card	Brinewt Card	Meehan Card	Thunder Wings Card	
+East Luterra	Morris	7:30	19:30	Chain War Chronicles	Dyorika Straw Hat	Model of Luterra's Sword	Azenaporium Brooch	Morpheo Card	Brinewt Card	Meehan Card	Thunder Wings Card	
+East Luterra	Morris	8:30	20:30	Chain War Chronicles	Dyorika Straw Hat	Model of Luterra's Sword	Azenaporium Brooch	Morpheo Card	Brinewt Card	Meehan Card	Thunder Wings Card	
+East Luterra	Morris	11:30	23:30	Chain War Chronicles	Dyorika Straw Hat	Model of Luterra's Sword	Azenaporium Brooch	Morpheo Card	Brinewt Card	Meehan Card	Thunder Wings Card	
+Shushire	Jeffrey	1:30	13:30	Sirius's Holy Book	Shimmering Essence	Javern Card	Sian Card	Madnick Card				
+Shushire	Jeffrey	4:30	16:30	Sirius's Holy Book	Shimmering Essence	Javern Card	Sian Card	Madnick Card				
+Shushire	Jeffrey	5:30	17:30	Sirius's Holy Book	Shimmering Essence	Javern Card	Sian Card	Madnick Card				
+Shushire	Jeffrey	7:30	19:30	Sirius's Holy Book	Shimmering Essence	Javern Card	Sian Card	Madnick Card				
+Shushire	Jeffrey	8:30	20:30	Sirius's Holy Book	Shimmering Essence	Javern Card	Sian Card	Madnick Card				
+Shushire	Jeffrey	11:30	23:30	Sirius's Holy Book	Shimmering Essence	Javern Card	Sian Card	Madnick Card				
+Feiton	Dorella	1:30	13:30	Red Moon's Tears	Dessicated Wooden Statue	Book of Survival	Broken Dagger	Goulding Card	Levi Card	Kaldor Card		
+Feiton	Dorella	4:30	16:30	Red Moon's Tears	Dessicated Wooden Statue	Book of Survival	Broken Dagger	Goulding Card	Levi Card	Kaldor Card		
+Feiton	Dorella	5:30	17:30	Red Moon's Tears	Dessicated Wooden Statue	Book of Survival	Broken Dagger	Goulding Card	Levi Card	Kaldor Card		
+Feiton	Dorella	7:30	19:30	Red Moon's Tears	Dessicated Wooden Statue	Book of Survival	Broken Dagger	Goulding Card	Levi Card	Kaldor Card		
+Feiton	Dorella	8:30	20:30	Red Moon's Tears	Dessicated Wooden Statue	Book of Survival	Broken Dagger	Goulding Card	Levi Card	Kaldor Card		
+Feiton	Dorella	11:30	23:30	Red Moon's Tears	Dessicated Wooden Statue	Book of Survival	Broken Dagger	Goulding Card	Levi Card	Kaldor Card		
+West Luterra	Malone	12:30	0:30	Chain War Chronicles	Black Rose	Lakebar	Tomato Juice	Cardogan Card	Berhart Card	Cassleford Card		
+West Luterra	Malone	2:30	14:30	Chain War Chronicles	Black Rose	Lakebar	Tomato Juice	Cardogan Card	Berhart Card	Cassleford Card		
+West Luterra	Malone	5:30	17:30	Chain War Chronicles	Black Rose	Lakebar	Tomato Juice	Cardogan Card	Berhart Card	Cassleford Card		
+West Luterra	Malone	6:30	18:30	Chain War Chronicles	Black Rose	Lakebar	Tomato Juice	Cardogan Card	Berhart Card	Cassleford Card		
+West Luterra	Malone	8:30	20:30	Chain War Chronicles	Black Rose	Lakebar	Tomato Juice	Cardogan Card	Berhart Card	Cassleford Card		
+West Luterra	Malone	9:30	21:30	Chain War Chronicles	Black Rose	Lakebar	Tomato Juice	Cardogan Card	Berhart Card	Cassleford Card		
+East Luterra	Burt	12:30	0:30	Chain War Chronicles	Dyorika Straw Hat	Model of Luterra's Sword	Azenaporium Brooch	Nox Card	Seria Card	Thunder Wings Card		
+East Luterra	Burt	2:30	14:30	Chain War Chronicles	Dyorika Straw Hat	Model of Luterra's Sword	Azenaporium Brooch	Nox Card	Seria Card	Thunder Wings Card		
+East Luterra	Burt	5:30	17:30	Chain War Chronicles	Dyorika Straw Hat	Model of Luterra's Sword	Azenaporium Brooch	Nox Card	Seria Card	Thunder Wings Card		
+East Luterra	Burt	6:30	18:30	Chain War Chronicles	Dyorika Straw Hat	Model of Luterra's Sword	Azenaporium Brooch	Nox Card	Seria Card	Thunder Wings Card		
+East Luterra	Burt	8:30	20:30	Chain War Chronicles	Dyorika Straw Hat	Model of Luterra's Sword	Azenaporium Brooch	Nox Card	Seria Card	Thunder Wings Card		
+East Luterra	Burt	9:30	21:30	Chain War Chronicles	Dyorika Straw Hat	Model of Luterra's Sword	Azenaporium Brooch	Nox Card	Seria Card	Thunder Wings Card		
+Tortoyk	Oliver	12:30	0:30	Shy Wind Flower Pollen	Round Glass Piece	Mokoko Carrot	Oversize Ladybug Doll	Egg of Creation Card	Eolh Card	Mokamoka Card		
+Tortoyk	Oliver	2:30	14:30	Shy Wind Flower Pollen	Round Glass Piece	Mokoko Carrot	Oversize Ladybug Doll	Egg of Creation Card	Eolh Card	Mokamoka Card		
+Tortoyk	Oliver	5:30	17:30	Shy Wind Flower Pollen	Round Glass Piece	Mokoko Carrot	Oversize Ladybug Doll	Egg of Creation Card	Eolh Card	Mokamoka Card		
+Tortoyk	Oliver	6:30	18:30	Shy Wind Flower Pollen	Round Glass Piece	Mokoko Carrot	Oversize Ladybug Doll	Egg of Creation Card	Eolh Card	Mokamoka Card		
+Tortoyk	Oliver	8:30	20:30	Shy Wind Flower Pollen	Round Glass Piece	Mokoko Carrot	Oversize Ladybug Doll	Egg of Creation Card	Eolh Card	Mokamoka Card		
+Tortoyk	Oliver	9:30	21:30	Shy Wind Flower Pollen	Round Glass Piece	Mokoko Carrot	Oversize Ladybug Doll	Egg of Creation Card	Eolh Card	Mokamoka Card		
+Arthetine	Nox	12:30	0:30	Fine Gramophone	Energy X7 Capsule	Bergstrom Card	Stern Neria Card	Krause Card				
+Arthetine	Nox	2:30	14:30	Fine Gramophone	Energy X7 Capsule	Bergstrom Card	Stern Neria Card	Krause Card				
+Arthetine	Nox	5:30	17:30	Fine Gramophone	Energy X7 Capsule	Bergstrom Card	Stern Neria Card	Krause Card				
+Arthetine	Nox	6:30	18:30	Fine Gramophone	Energy X7 Capsule	Bergstrom Card	Stern Neria Card	Krause Card				
+Arthetine	Nox	8:30	20:30	Fine Gramophone	Energy X7 Capsule	Bergstrom Card	Stern Neria Card	Krause Card				
+Arthetine	Nox	9:30	21:30	Fine Gramophone	Energy X7 Capsule	Bergstrom Card	Stern Neria Card	Krause Card				
+Rohendel	Aricer	12:30	0:30	Sylvain Queens' Blessing	Soundstone of Dawn	Elemental's Feather	Danube's Earrings	Alifer Card	Lenora Card	Gnosis Card		
+Rohendel	Aricer	2:30	14:30	Sylvain Queens' Blessing	Soundstone of Dawn	Elemental's Feather	Danube's Earrings	Alifer Card	Lenora Card	Gnosis Card		
+Rohendel	Aricer	5:30	17:30	Sylvain Queens' Blessing	Soundstone of Dawn	Elemental's Feather	Danube's Earrings	Alifer Card	Lenora Card	Gnosis Card		
+Rohendel	Aricer	6:30	18:30	Sylvain Queens' Blessing	Soundstone of Dawn	Elemental's Feather	Danube's Earrings	Alifer Card	Lenora Card	Gnosis Card		
+Rohendel	Aricer	8:30	20:30	Sylvain Queens' Blessing	Soundstone of Dawn	Elemental's Feather	Danube's Earrings	Alifer Card	Lenora Card	Gnosis Card		
+Rohendel	Aricer	9:30	21:30	Sylvain Queens' Blessing	Soundstone of Dawn	Elemental's Feather	Danube's Earrings	Alifer Card	Lenora Card	Gnosis Card		
+Punika	Rayni	12:30	0:30	Oreha Viewing Stone	HollowFruit	Pinata Crafting Set	Rainbow Tikatika Flower	Stella Card	Cicerra Card	Seto Card	Albion Card	
+Punika	Rayni	2:30	14:30	Oreha Viewing Stone	HollowFruit	Pinata Crafting Set	Rainbow Tikatika Flower	Stella Card	Cicerra Card	Seto Card	Albion Card	
+Punika	Rayni	5:30	17:30	Oreha Viewing Stone	HollowFruit	Pinata Crafting Set	Rainbow Tikatika Flower	Stella Card	Cicerra Card	Seto Card	Albion Card	
+Punika	Rayni	6:30	18:30	Oreha Viewing Stone	HollowFruit	Pinata Crafting Set	Rainbow Tikatika Flower	Stella Card	Cicerra Card	Seto Card	Albion Card	
+Punika	Rayni	8:30	20:30	Oreha Viewing Stone	HollowFruit	Pinata Crafting Set	Rainbow Tikatika Flower	Stella Card	Cicerra Card	Seto Card	Albion Card	
+Punika	Rayni	9:30	21:30	Oreha Viewing Stone	HollowFruit	Pinata Crafting Set	Rainbow Tikatika Flower	Stella Card	Cicerra Card	Seto Card	Albion Card	
+Rethramis	Ben	12:30	0:30	Surprise Chest	Fancier Bouquet	Prideholme Potato	Rethramis Holy water	Siera Card	Varut Card	Prideholme Neria Card		
+Rethramis	Ben	3:30	15:30	Surprise Chest	Fancier Bouquet	Prideholme Potato	Rethramis Holy water	Siera Card	Varut Card	Prideholme Neria Card		
+Rethramis	Ben	4:30	16:30	Surprise Chest	Fancier Bouquet	Prideholme Potato	Rethramis Holy water	Siera Card	Varut Card	Prideholme Neria Card		
+Rethramis	Ben	6:30	18:30	Surprise Chest	Fancier Bouquet	Prideholme Potato	Rethramis Holy water	Siera Card	Varut Card	Prideholme Neria Card		
+Rethramis	Ben	7:30	19:30	Surprise Chest	Fancier Bouquet	Prideholme Potato	Rethramis Holy water	Siera Card	Varut Card	Prideholme Neria Card		
+Rethramis	Ben	10:30	22:30	Surprise Chest	Fancier Bouquet	Prideholme Potato	Rethramis Holy water	Siera Card	Varut Card	Prideholme Neria Card		
+North Vern	Peter	12:30	0:30	Vern's Founding Coin	Queen's Knights Application	Exquisite Music Box	Magick Cloth	Magick Crystal	Goblin Yam	Gideon Card	Payla Card	Thar Card
+North Vern	Peter	3:30	15:30	Vern's Founding Coin	Queen's Knights Application	Exquisite Music Box	Magick Cloth	Magick Crystal	Goblin Yam	Gideon Card	Payla Card	Thar Card
+North Vern	Peter	4:30	16:30	Vern's Founding Coin	Queen's Knights Application	Exquisite Music Box	Magick Cloth	Magick Crystal	Goblin Yam	Gideon Card	Payla Card	Thar Card
+North Vern	Peter	6:30	18:30	Vern's Founding Coin	Queen's Knights Application	Exquisite Music Box	Magick Cloth	Magick Crystal	Goblin Yam	Gideon Card	Payla Card	Thar Card
+North Vern	Peter	7:30	19:30	Vern's Founding Coin	Queen's Knights Application	Exquisite Music Box	Magick Cloth	Magick Crystal	Goblin Yam	Gideon Card	Payla Card	Thar Card
+North Vern	Peter	10:30	22:30	Vern's Founding Coin	Queen's Knights Application	Exquisite Music Box	Magick Cloth	Magick Crystal	Goblin Yam	Gideon Card	Payla Card	Thar Card
+Yorn	Laitir	12:30	0:30	Fargar's Beer	Piyer's Secret Textbook	Piyer Card	Great Castle Neria Card	Kaysarr Card				
+Yorn	Laitir	3:30	15:30	Fargar's Beer	Piyer's Secret Textbook	Piyer Card	Great Castle Neria Card	Kaysarr Card				
+Yorn	Laitir	4:30	16:30	Fargar's Beer	Piyer's Secret Textbook	Piyer Card	Great Castle Neria Card	Kaysarr Card				
+Yorn	Laitir	6:30	18:30	Fargar's Beer	Piyer's Secret Textbook	Piyer Card	Great Castle Neria Card	Kaysarr Card				
+Yorn	Laitir	7:30	19:30	Fargar's Beer	Piyer's Secret Textbook	Piyer Card	Great Castle Neria Card	Kaysarr Card				
+Yorn	Laitir	10:30	22:30	Fargar's Beer	Piyer's Secret Textbook	Piyer Card	Great Castle Neria Card	Kaysarr Card				

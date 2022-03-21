@@ -1,0 +1,160 @@
+#WorldMap{
+     position: absolute;
+     z-index: -5;
+     left: 8px;
+     top: 8px;
+
+}
+#RethramisImg{
+    position: absolute;
+    top: calc(895px - 14px);
+    left: calc(708px - 15px);
+    opacity: 0.5;
+}
+
+#YudiaImg{
+     position: absolute;
+     top: calc(958px - 14px);
+     left: calc(910px - 15px);
+     opacity: 0.5
+}
+
+#WestLuterraImg{
+     position: absolute;
+     top: calc(903px - 14px);
+     left: calc(993px - 15px);
+     opacity: 0.5
+}
+
+#EastLuterraImg{
+     position: absolute;
+     top: calc(902px - 14px);
+     left: calc(1124px - 15px);
+     opacity: 0.5
+}
+
+#AnikkaImg{
+     position: absolute;
+     opacity: 0.5;
+     top: calc(536px - 14px);
+     left: calc(1455px - 15px);
+}
+
+#ArthetineImg{
+     position: absolute;
+     opacity: 0.5;
+     top: calc(254px - 14px);
+     left: calc(1395px - 15px);
+}
+
+#FeitonImg{
+     position: absolute;
+     opacity: 0.5;
+     top: calc(228px - 16px);
+     left: calc(28px + 16px);
+}
+
+#NorthVernImg{
+     position: absolute;
+     opacity: 0.5;
+     top: calc(450px - 14px);
+     left: calc(895px - 15px);
+}
+
+#PunikaImg{
+     position: absolute;
+     opacity: 0.5;
+     top: calc(903px - 14px);
+     left: calc(320px - 15px);
+}
+
+#RohendelImg{
+     position: absolute;
+     opacity: 0.5;
+     top: calc(495px - 14px);
+     left: calc(147px - 15px);
+}
+
+#ShushireImg{
+     position: absolute;
+     opacity: 0.5;
+     top: calc(83px - 14px);
+     left: calc(932px - 15px);
+}
+
+#TortoykImg{
+     position: absolute;
+     opacity: 0.5;
+     top: calc(786px - 14px);
+     left: calc(1354px - 15px);
+}
+
+
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+     background-color: #eee;
+     position: absolute;
+     color:#444;
+     cursor: pointer;
+     padding: 18px;
+     width: 10%;
+     border: none;
+     text-align: center;
+     outline: none;
+     font-size: 15px;
+   }
+   
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+     background-color: #eee;
+   }
+   
+/* Style the collapsible content. Note: hidden by default */
+.content {
+     margin-top: 45px;
+     padding-top: 0px;
+     padding-left: 18px;
+     display: none;
+     position: absolute;
+     overflow: hidden;
+     background-color: #f1f1f1;
+}
+
+#vendorInfo {
+     width: 60%;
+
+}
+
+#itemmenu{
+     position: absolute;
+     left: 270px;
+     width: 15%;
+}
+
+.icon_img{
+     border: 1px solid #ddd;
+     border-radius: 4px;
+     padding: 5px;
+     width: 25px;
+     vertical-align: middle;  
+}
+
+.chosenmap{
+     opacity: 0.5;
+     animation-name: example;
+     animation-duration: 1.5s;
+     animation-iteration-count: infinite;
+     
+}
+
+@keyframes example {
+     0% {opacity: 0;}
+     25% {opacity: 0.5;}
+     50% {opacity: 1;}
+     75% {opacity: 0.5;}
+     100% {opacity: 0;}
+   }
+
+#demo{
+     position: absolute;
+}
