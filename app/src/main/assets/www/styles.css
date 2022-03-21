@@ -5,7 +5,7 @@
      top: 8px;
 
 }
-#RethramisImg{
+/* #RethramisImg{
     position: absolute;
     top: calc(895px - 14px);
     left: calc(708px - 15px);
@@ -49,9 +49,9 @@
 
 #FeitonImg{
      position: absolute;
-     opacity: 0.5;
-     top: calc(228px - 16px);
-     left: calc(28px + 16px);
+     opacity: 1;
+     top: calc(220px + 8px);
+     left: calc(58px + 8px);
 }
 
 #NorthVernImg{
@@ -86,8 +86,161 @@
      position: absolute;
      opacity: 0.5;
      top: calc(786px - 14px);
-     left: calc(1354px - 15px);
+     left: calc(1354px - 13px);
 }
+
+#YornImg{
+     position: absolute;
+     opacity: 0.5;
+     top: calc(980px + 10px);
+     left: calc(0px + 8px);
+} */
+
+
+#Rethramis{
+     background-color: azure;
+     border-radius: 50%;
+     position: absolute;
+     top: 1020px;
+     left: 825px;
+
+     width: 50px;
+     height: 50px;
+     box-shadow: 0px 0px 20px 5px #0ff;
+}
+
+#Yudia{
+     background-color: azure;
+     border-radius: 50%;
+     position: absolute;
+     top: 1014px;
+     left: 981px;
+
+     width: 50px;
+     height: 50px;
+}
+
+#WestLuterra{
+     background-color: azure;
+     border-radius: 50%;
+     position: absolute;
+     top: 1057px;
+     left: 1064px;;
+
+     width: 50px;
+     height: 50px;
+}
+
+#EastLuterra{
+     background-color: azure;
+     border-radius: 50%;
+     position: absolute;
+     top: 1009px;
+     left: 1156px;;
+
+     width: 50px;
+     height: 50px;
+}
+
+#Anikka{
+     background-color: azure;
+     border-radius: 50%;
+     position: absolute;
+     top: 608px;
+     left: 1528px;;
+
+     width: 50px;
+     height: 50px;
+}
+
+#Arthetine{
+     background-color: azure;
+     border-radius: 50%;
+     position: absolute;
+     top: 314px;
+     left: 1449px;;
+
+     width: 50px;
+     height: 50px;
+}
+
+#Feiton{
+     background-color: azure;
+     border-radius: 50%;
+     position: absolute;
+     top: 310px;
+     left: 136px;;
+
+     width: 50px;
+     height: 50px;
+}
+
+#NorthVern{
+     background-color: azure;
+     border-radius: 50%;
+     position: absolute;
+     top: 508px;
+     left: 1003px;;
+
+     width: 50px;
+     height: 50px;
+}
+
+#Punika{
+     background-color: azure;
+     border-radius: 50%;
+     position: absolute;
+     top: 1009px;
+     left: 380px;;
+
+     width: 50px;
+     height: 50px;
+}
+
+#Rohendel{
+     background-color: azure;
+     border-radius: 50%;
+     position: absolute;
+     top: 635px;
+     left: 246px;;
+
+     width: 50px;
+     height: 50px;
+}
+
+#Shushire{
+     background-color: azure;
+     border-radius: 50%;
+     position: absolute;
+     top: 71px;
+     left: 1073px;;
+
+     width: 50px;
+     height: 50px;
+}
+
+#Tortoyk{
+     background-color: azure;
+     border-radius: 50%;
+     position: absolute;
+     top: 820px;
+     left: 1385px;;
+
+     width: 15px;
+     height: 15px;
+}
+
+#Yorn{
+     background-color: azure;
+     border-radius: 50%;
+     position: absolute;
+     top: 1147px;
+     left: 103px;;
+
+     width: 50px;
+     height: 50px;
+}
+
 
 
 /* Style the button that is used to open and close the collapsible content */
@@ -139,22 +292,17 @@
      vertical-align: middle;  
 }
 
-.chosenmap{
-     opacity: 0.5;
-     animation-name: example;
-     animation-duration: 1.5s;
+.chosenmap{     
+     animation-name: glow;
+     animation-duration: 1.3s;
      animation-iteration-count: infinite;
      
 }
 
-@keyframes example {
-     0% {opacity: 0;}
-     25% {opacity: 0.5;}
-     50% {opacity: 1;}
-     75% {opacity: 0.5;}
-     100% {opacity: 0;}
-   }
-
-#demo{
-     position: absolute;
+@keyframes glow {
+     0% {box-shadow: 0px 0px 20px -10px #0ff;}
+     25% {box-shadow: 0px 0px 20px 0px #0ff;}
+     50% {box-shadow: 0px 0px 20px 5px #0ff;}
+     75% {box-shadow: 0px 0px 20px 3px #0ff;}
+     100% {box-shadow: 0px 0px 20px 0px #0ff;}
 }

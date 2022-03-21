@@ -6,11 +6,13 @@ const merchantMap = {"Mac":["traveling_merchant_mac_delphi_township.jpg", "Delph
 
 
 // const continentList = ['Anikka', 'Yudia', 'East Luterra', 'Shushire', 'Feiton', 'West Luterra', 'Tortoyk', 'Arthetine', 'Rohendel', 'Punika', 'Rethramis', 'North Vern', 'Yorn']
-const continentList = ['Anikka', 'Yudia', 'East Luterra', 'Shushire', 'Feiton', 'West Luterra', 'Tortoyk', 'Arthetine', 'Rohendel', 'Punika', 'Rethramis', 'North Vern']
-const continentListAlternative = ['Anikka', 'Yudia', 'EastLuterra', 'Shushire', 'Feiton', 'WestLuterra', 'Tortoyk', 'Arthetine', 'Rohendel', 'Punika', 'Rethramis', 'NorthVern']
+const continentList = ['Anikka', 'Yudia', 'East Luterra', 'Shushire', 'Feiton', 'West Luterra', 'Tortoyk', 'Arthetine', 'Rohendel', 'Punika', 'Rethramis', 'North Vern', 'Yorn']
+const continentListAlternative = ['Anikka', 'Yudia', 'EastLuterra', 'Shushire', 'Feiton', 'WestLuterra', 'Tortoyk', 'Arthetine', 'Rohendel', 'Punika', 'Rethramis', 'NorthVern', 'Yorn']
 
 var item_chosen = []
 var justStarted = true
+
+const time_offset = -1
 
 function saveItems(){
    AndroidInterface.saveItemsJava(item_chosen.join("-"))
@@ -29,7 +31,7 @@ function continentInfo(x){
    main_div.innerHTML = "";
 
    var today = new Date();
-   var currentTime = today.getHours() + ":30"
+   var currentTime = (today.getHours() + time_offset) + ":30"
 
    var div = document.createElement("div")
    div.setAttribute("id", "vendorInfo")
@@ -52,7 +54,7 @@ function continentInfo(x){
       
       for(let i = 0; i < currentVendor.length; i++){
 
-         if(today.getMinutes() < 55 && today.getMinutes() < 0 && jsonKeys.includes(x)){
+         if(today.getMinutes() < 55 && today.getMinutes() > 0 && jsonKeys.includes(x)){
             div.appendChild(document.createTextNode(currentVendor[i] + ": ")) // Current vendor name
             div.appendChild(document.createElement("br"))
 
@@ -135,28 +137,34 @@ function backBtn(){
 
    for(let i = 0; i < continentList.length; i++){     
 
-      // Create elements      
-      var a_element = document.createElement("a")
-      var img_element = document.createElement("img")
+      // // Create elements      
+      // var a_element = document.createElement("a")
+      // var img_element = document.createElement("img")
 
-      // Add function values
-      a_element.setAttribute("href", "#")
-      a_element.setAttribute("onclick", "continentInfo('" + continentList[i] + "');")
+      // // Add function values
+      // a_element.setAttribute("href", "#")
+      // a_element.setAttribute("onclick", "continentInfo('" + continentList[i] + "');")
 
-      // Add Images
-      img_element.setAttribute("src", "data/" + continentList[i] + ".png")
-      img_element.setAttribute("id", continentListAlternative[i] + "Img")
+      // // Add Images
+      // img_element.setAttribute("src", "data/" + continentList[i] + ".png")
+      // img_element.setAttribute("id", continentListAlternative[i] + "Img")
 
-      // Append
-      a_element.appendChild(img_element)
-      div.appendChild(a_element)
+      // // Append
+      // a_element.appendChild(img_element)
+      // div.appendChild(a_element)
+
+      var btn_element = document.createElement("button")
+      btn_element.setAttribute("id", continentListAlternative[i])
+      btn_element.setAttribute("onclick", "continentInfo('" + continentList[i] + "');")
+
+      div.appendChild(btn_element)
    }
 
    main_div.appendChild(div)
 
    // Add world background
    var img_world = document.createElement("img")
-   img_world.setAttribute("src", "data/World_Map_1.png")
+   img_world.setAttribute("src", "data/World_Map_2.png")
    img_world.setAttribute("id", "WorldMap")
    main_div.appendChild(img_world)
 
@@ -169,7 +177,7 @@ function collapsetest(){
 
    // Get current list of available merchants
    var today = new Date();
-   const currentTime = today.getHours() + ":30"
+   const currentTime = (today.getHours() + time_offset) + ":30"
    var jsonKeys = Object.keys(windowTime[currentTime])
    // alert(jsonKeys)
 
@@ -294,7 +302,7 @@ const interval = setInterval(function() {
    saveItems() // Save list of items choosen
 
    var today = new Date();
-   var currentTime = today.getHours() + ":30"
+   var currentTime = (today.getHours() + time_offset) + ":30"
 
    var regionKeys = Object.keys(windowTime[currentTime])
 
@@ -308,10 +316,10 @@ const interval = setInterval(function() {
 
          for(let x = 0; x < item_chosen.length; x++){
             if(itemList.includes(item_chosen[x])){
-               chosenRegions.push(regionKeys[i].replace(/\s/g, '')+"Img")
-               var reg_edit = document.getElementById(regionKeys[i].replace(/\s/g, '')+"Img")
+               chosenRegions.push(regionKeys[i].replace(/\s/g, ''))
+               var reg_edit = document.getElementById(regionKeys[i].replace(/\s/g, '')) // Get continent button id
                if(reg_edit.classList != "chosenmap"){
-                  reg_edit.classList.add("chosenmap")
+                  reg_edit.classList.add("chosenmap") // Add class to glow specific region
                }
             }      
          }
